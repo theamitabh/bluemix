@@ -1,0 +1,7 @@
+applications:
+- services:
+  - qa-service
+  name: amitqa
+  command: node app.js
+  path: .
+  memory: 128M

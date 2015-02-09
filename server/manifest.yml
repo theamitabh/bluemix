@@ -1,0 +1,6 @@
+---
+applications:
+- name: hello-world-amit
+host: helloworldamit
+memory: 128M
+command: node main.js
